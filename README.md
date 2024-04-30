@@ -41,7 +41,7 @@ A blend of technical prowess and leadership:
 ## Connect with Me
 Always eager to make new connections and explore opportunities:
 
-- LinkedIn
-- Email
+- LinkedIn: [Ansh Jain](https://www.linkedin.com/in/ansh--jain)
+- Email: [jansh7784@gmail.com](mailto:jansh7784@gmail.com)
 
-Join me in building the future! 🚀
+Let's collaborate, innovate, and build amazing things together! 🚀
