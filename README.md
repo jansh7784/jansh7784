@@ -14,13 +14,13 @@ I'm a dedicated software developer with a rich background in various programming
 My journey is marked by significant milestones:
 
 - Secretary at IEEE Computer Society (Dec 2023 - Present)
-- HR Intern at Proxbotics Creation Technologies (Mar 2024 - Apr 2024)
+- HR Intern at Profcess. (Mar 2024 - Apr 2024)
 - Python & ML Industrial Trainee (Sept 2023 - Sept 2023)
 
 ## Projects
 I have contributed to several projects that showcase my skills:
 
-1. NFT Brides: A modern real estate website with responsive design using HTML, CSS, and JavaScript.
+1. NFT Bricks: A modern real estate website with responsive design using HTML,Solidity, CSS, and JavaScript.
 2. Deepfake Detection: Implemented a Deepfake Detection Model using CNN and LSTM.
 
 ... And more on my GitHub!
@@ -35,8 +35,8 @@ Proficient in:
 ## Extra Curricular Activities
 A blend of technical prowess and leadership:
 
-- Winner at CodeChef LTIME102B (Oct 2022)
-- Participation in various hackathons including Matte RWA Blockchain Hackathon (2024)
+- 3rd Position at CodeRed 2.0 72 hours Hackathon VGU (Oct 2022)
+- Participation in various hackathons including Mantra RWA Blockchain Hackathon (2024)
 
 ## Connect with Me
 Always eager to make new connections and explore opportunities:
